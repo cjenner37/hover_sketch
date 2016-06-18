@@ -1,0 +1,19 @@
+div {
+	height: 36px; width: 36px;
+	border: 1px solid #a0a0a0;
+}
+
+#container {
+	background-color: #f0f0f0;
+	height: 592px;
+	width: 592px;
+}
+
+.unit {
+	background-color: white;
+	height: 31px;
+	width: 31px;
+	margin: 2px;
+	float: left;
+}
+
